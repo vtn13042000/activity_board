@@ -8,18 +8,3 @@ Content-Type: application/json
   "password": "vuongthaonguyen111"
 }
 
-###
-
-
-# POST http://localhost:5000/auth/login
-# Content-Type: application/json
-
-# {
-#   "username": "vuongthaonguyen111",
-#   "password": "vuongthaonguyen111"
-# }
-
-
-# ###
-
-# GET http://localhost:5000/home
